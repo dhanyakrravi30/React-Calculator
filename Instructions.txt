@@ -1,0 +1,25 @@
+First create react app using vite:
+
+npm create vite@latest calculator
+
+choose react and javascript.
+
+cd calculator
+npm install
+npm run dev - to check the default react output
+
+
+Install bootstrap:
+
+npm install bootstrap
+
+Clear the unneccessary files.
+
+Create the components folder: Create the Calculator.jsx
+
+Create the logic and import in App.jsx.
+
+Import the App.jsx in Main.jsx.
+
+
+npm run dev - to see the final output.
