@@ -1,1 +1,1 @@
-![Output](Screenshot 2025-02-26 174735.png)
+![Output](Screenshot%202025-02-26%20174735.png)
